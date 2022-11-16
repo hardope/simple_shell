@@ -1,7 +1,7 @@
 # Implementation of sh in C programming language
 
 ## Overview
-Simple Shell is a Holberton School pair project. The general goal of the project is to write a simple UNIX command interpreter. 
+Simple Shell is an ALX pair project. The general goal of the project is to write a simple UNIX command interpreter. 
 ## Content
 * [Installation](#Installation)
 * [Builtins](#Builtins)
@@ -200,5 +200,5 @@ handle commands with arguments
 - Your shell should take a file as a command line argument
 
 ## Authors
-* [Patrick Deyoreo](https://github.com/patrickdeyoreo)
-* [Banu Sapakova](https://github.com/banuaksom)
+* [Opeoluwa Adeyeri](https://github.com/hardope)
+* [Selamawit KAssaye ASfaw](https://github.com/Selamawit-Kassaye)

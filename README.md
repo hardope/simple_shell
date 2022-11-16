@@ -201,4 +201,4 @@ handle commands with arguments
 
 ## Authors
 * [Opeoluwa Adeyeri](https://github.com/hardope)
-* [Selamawit KAssaye ASfaw](https://github.com/Selamawit-Kassaye)
+* [Selamawit Kassaye ASfaw](https://github.com/Selamawit-Kassaye)

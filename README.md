@@ -1,4 +1,4 @@
-# Implementation of sh in C programming language
+# Implementation of shell in C programming language
 
 ## Overview
 Simple Shell is an ALX pair project. The general goal of the project is to write a simple UNIX command interpreter. 
